@@ -1,4 +1,4 @@
-# 📜 Professional Certificates & Credentials
+## 📜 Professional Certificates & Credentials
 
 > **A curated collection of industry-recognized certifications, technical training credentials, and professional development achievements.**
 
