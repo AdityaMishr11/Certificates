@@ -125,45 +125,6 @@ The capstone project synthesizes all previous learning into a comprehensive, pro
 - **Validation Standards**: HTML5 and CSS3 validation requirements
 - **Performance Optimization**: Fast loading, optimized assets
 
-#### **Six-Week Development Process**
-
-**Week 1: Introduction & Planning**
-- Portfolio strategy and target audience analysis
-- Content planning and information architecture
-- Technology stack selection (from scratch, template, or framework)
-
-**Week 2: Design Phase**
-- Wireframe creation for multiple screen sizes
-- Visual design mockups and style guide development
-- Peer review and design iteration process
-
-**Week 3: Review and Preparation**
-- Design refinement based on peer feedback
-- Content creation and asset preparation
-- Technical architecture planning
-
-**Week 4: Coding Phase**
-- HTML structure implementation
-- CSS styling and responsive layout development
-- JavaScript functionality integration
-
-**Week 5: Validation and Testing**
-- HTML5 and CSS3 validation
-- Accessibility testing with screen readers
-- Cross-browser and device testing
-- Performance optimization
-
-**Week 6: Final Review and Submission**
-- Peer review process and final iterations
-- Portfolio presentation and documentation
-- Professional deployment and hosting
-
-#### **Portfolio Options Available**
-1. **From Scratch**: Complete custom development demonstrating full technical mastery
-2. **Template-Based**: Customization of existing templates with personal branding
-3. **Framework-Powered**: Utilizing Bootstrap or similar frameworks for rapid development
-
----
 
 ## 🏆 **Professional Skills Acquired**
 
@@ -210,23 +171,6 @@ The capstone project synthesizes all previous learning into a comprehensive, pro
 
 ---
 
-## 🔗 **Portfolio Showcase & Verification**
-
-### **Live Portfolio Features**
-- **Responsive Design**: Seamless experience across all devices
-- **Accessibility**: Screen reader compatible, keyboard navigable
-- **Performance**: Fast loading, optimized for Core Web Vitals
-- **Modern Standards**: HTML5 semantic markup, CSS3 features
-- **Interactive Elements**: JavaScript-enhanced user experience
-
-### **Technical Implementation**
-- **Mobile-First CSS**: Progressive enhancement approach
-- **Semantic HTML**: Proper document structure and SEO optimization
-- **Cross-Browser**: Tested on Chrome, Firefox, Safari, Edge
-- **Validation**: W3C HTML5 and CSS3 validation passed
-- **Accessibility**: WAVE and axe accessibility testing completed
-
----
 
 ## 🎓 **Learning Outcomes & Professional Impact**
 
@@ -252,11 +196,10 @@ Upon completion of this specialization, demonstrated ability to:
 
 | Course | Verification Link | Skills Demonstrated |
 |--------|------------------|-------------------|
-| HTML5 Fundamentals | [View Certificate](./Web%20Designing%20from%20Coursera/Introduction%20to%20HTML5.jpeg) | Semantic markup, accessibility |
-| CSS3 Styling | [View Certificate](./Web%20Designing%20from%20Coursera/Introduction%20to%20CSS3.jpeg) | Responsive design, visual styling |
-| JavaScript Interactivity | [View Certificate](./Web%20Designing%20from%20Coursera/Interactivity%20with%20JavaScript.jpeg) | DOM manipulation, event handling |
-| Responsive Design | [View Certificate](./Web%20Designing%20from%20Coursera/Advanced%20Styling%20with%20Responsive%20Design.jpeg) | Mobile-first, framework integration |
-| Complete Portfolio | [View Certificate](./Web%20Designing%20from%20Coursera/web%20designing%20certificates(2).pdf) | Full-stack web development |
+| HTML5 Fundamentals | [View Certificate](https://www.coursera.org/account/accomplishments/verify/WUHLYPY3YN6T?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse) | Semantic markup, accessibility |
+| CSS3 Styling | [View Certificate](https://www.coursera.org/account/accomplishments/verify/XWGLFMDKZA82?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse) | Responsive design, visual styling |
+| JavaScript Interactivity | [View Certificate](https://www.coursera.org/account/accomplishments/verify/ZTX8R5R4VTXX?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse) | DOM manipulation, event handling |
+| Responsive Design | [View Certificate](https://www.coursera.org/account/accomplishments/verify/SCQ8BL4CZVZV?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse) | Mobile-first, framework integration |
 
 ---
 
