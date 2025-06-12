@@ -119,12 +119,6 @@ This section showcases participation in specialized workshops, industry events, 
 - **Skills Demonstrated**: Algorithmic problem-solving, competitive programming, time management
 - **Recognition**: Outstanding performance in technical problem-solving under pressure
 
-#### **International Engineering Olympiad - AIR 54**
-- **Achievement**: All India Rank 54 out of 5000+ participants (2022)
-- **Scope**: National-level engineering aptitude and problem-solving competition
-- **Skills Validated**: Engineering fundamentals, analytical thinking, mathematical reasoning
-- **Recognition**: Top 1% performance in national engineering assessment
-
 ### **Extracurricular Leadership**
 
 #### **Curator - Datum GLAU**
@@ -136,7 +130,7 @@ This section showcases participation in specialized workshops, industry events, 
 #### **Volunteer - NSS GLAU**
 - **Organization**: National Service Scheme, GLA University
 - **Activities**: Community service, social awareness programs, volunteer coordination
-- **Contribution**: 100+ hours of community service and social impact initiatives
+- **Contribution**: Active participation in community service and social impact initiatives
 - **Skills**: Social responsibility, teamwork, community engagement, project management
 
 ---
@@ -167,10 +161,10 @@ This section showcases participation in specialized workshops, industry events, 
 | **Cybersecurity** | 1 | 8+ | Security fundamentals, ethical hacking |
 | **Algorithms & DSA** | 1 | 40+ | Competitive programming, optimization |
 | **Artificial Intelligence** | 2 | 15+ | AI fundamentals, CNN, computer vision |
-| **Leadership & Events** | 5+ | 100+ | Event management, community service |
+| **Leadership & Events** | 4+ | 50+ | Event management, community service |
 | **Professional Skills** | 3 | 12+ | Communication, time management |
 
-**Total Professional Development**: 175+ hours of specialized training and event participation
+**Total Professional Development**: 125+ hours of specialized training and event participation
 
 ---
 
@@ -189,7 +183,6 @@ This section showcases participation in specialized workshops, industry events, 
 - **Time Management**: Efficient project execution and deadline adherence
 
 ### **Competitive Achievements**
-- **National Recognition**: Top 1% performance in engineering assessments
 - **University Excellence**: Consistent high performance in competitive environments
 - **Technical Leadership**: Active contribution to technical community and knowledge sharing
 
@@ -202,7 +195,7 @@ This section showcases participation in specialized workshops, industry events, 
 | **Workshop Certificates** | Institution-issued with unique IDs | Specialized skill validation |
 | **Competition Awards** | University-verified achievements | Competitive excellence proof |
 | **Leadership Roles** | Institution-documented positions | Leadership capability evidence |
-| **Community Service** | NSS-verified volunteer hours | Social responsibility demonstration |
+| **Community Service** | NSS-verified participation | Social responsibility demonstration |
 
 ---
 
