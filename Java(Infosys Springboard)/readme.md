@@ -1,14 +1,14 @@
-# ☕ Java Professional Certification Portfolio
+## ☕ Java Professional Certification Portfolio
 
-## 📚 Certification Details & Course Content
+### 📚 Certification Details & Course Content
 
-### **Programming using Java**
+#### **Programming using Java**
 *Comprehensive Java Development Certification*
 
 **Duration**: 80+ hours of structured learning  
 **Focus**: Core Java programming fundamentals to advanced OOP concepts
 
-#### **Core Learning Modules**
+##### **Core Learning Modules**
 - **Java Fundamentals** (6h 42m)
   - Getting Started with Java development environment
   - Keywords, Variables, Identifiers and Data types
@@ -40,13 +40,13 @@
 
 ---
 
-### **Database Management System Part 1**
+#### **Database Management System Part 1**
 *Foundational Database Design and SQL Programming*
 
 **Duration**: 25+ hours of database fundamentals  
 **Focus**: Relational database design and SQL mastery
 
-#### **Database Design & Theory**
+##### **Database Design & Theory**
 - **Database Fundamentals**
   - Introduction to DBMS concepts and architecture
   - Entity-Relationship (ER) Diagram modeling
@@ -63,13 +63,13 @@
 
 ---
 
-### **Database Management System Part 2**
+#### **Database Management System Part 2**
 *Advanced Database Operations and Modern Technologies*
 
 **Duration**: 15+ hours of advanced concepts  
 **Focus**: Complex querying, performance, and NoSQL introduction
 
-#### **Advanced Database Operations**
+##### **Advanced Database Operations**
 - **Complex Query Techniques**
   - Independent and Correlated Subqueries
   - Advanced JOIN operations and optimization
@@ -87,13 +87,13 @@
 
 ---
 
-### **Introduction to NoSQL Databases**
+#### **Introduction to NoSQL Databases**
 *Modern Data Storage Solutions*
 
 **Duration**: 6+ hours across 6 comprehensive modules  
 **Focus**: Non-relational database technologies and use cases
 
-#### **NoSQL Fundamentals**
+##### **NoSQL Fundamentals**
 - **Why NoSQL?** - Understanding limitations of traditional RDBMS
 - **SQL vs NoSQL** - Comparative analysis with practical scenarios
 - **NoSQL Database Types**:
@@ -102,7 +102,7 @@
   - **Document Oriented**: MongoDB, CouchDB applications
   - **Graph Databases**: Neo4j, Amazon Neptune scenarios
 
-#### **Advanced NoSQL Concepts**
+##### **Advanced NoSQL Concepts**
 - **CAP Theorem**: Consistency, Availability, Partition tolerance trade-offs
 - **Consistency Levels**: Understanding eventual vs strong consistency
 - **Read/Write Intensive**: Optimization strategies for different workloads
@@ -110,18 +110,18 @@
 
 ---
 
-### **Software Engineering and Agile Development**
+#### **Software Engineering and Agile Development**
 *Modern Development Methodologies and Best Practices*
 
 **Duration**: 1h 30m of concentrated learning  
 **Focus**: Professional software development practices
 
-#### **Software Engineering Fundamentals**
+##### **Software Engineering Fundamentals**
 - **Core Concepts**: Software engineering principles and methodologies
 - **Development Models**: Waterfall, Iterative, Agile comparisons
 - **Project Roles**: Understanding team structures and responsibilities
 
-#### **Agile Methodology Mastery**
+##### **Agile Methodology Mastery**
 - **Agile Values & Principles**: 12 principles of agile development
 - **Traditional vs Agile**: Comparative analysis and transition strategies
 - **Agile Flavors**: Scrum, Kanban, XP methodologies
@@ -129,58 +129,58 @@
 
 ---
 
-### **Agile Scrum in Practice**
+#### **Agile Scrum in Practice**
 *Hands-on Scrum Framework Implementation*
 
 **Duration**: 30+ hours of comprehensive Scrum training  
 **Focus**: Practical Scrum implementation and team leadership
 
-#### **Scrum Framework Mastery**
+##### **Scrum Framework Mastery**
 - **Sprint 0 - Discovery & Initiation**
   - Vision Statement creation and alignment
   - User Story writing and acceptance criteria
   - Story prioritization using MoSCoW and other techniques
   - Release planning and roadmap development
 
-#### **Sprint Execution Excellence**
+##### **Sprint Execution Excellence**
 - **Sprint Planning**: Capacity planning and task estimation
 - **Daily Scrum**: Stand-up meetings and impediment management
 - **Product Backlog Grooming**: Story refinement and estimation
 - **Sprint Review & Retrospective**: Continuous improvement practices
 
-#### **Technical Practices Integration**
+##### **Technical Practices Integration**
 - **Test-Driven Development (TDD)**: Red-Green-Refactor cycle
 - **Continuous Integration**: Automated testing and deployment
 - **Refactoring**: Code quality improvement techniques
 - **Pair Programming**: Collaborative development practices
 - **Simple Design Principles**: YAGNI, DRY, SOLID principles
 
-#### **Scrum Roles & Responsibilities**
+##### **Scrum Roles & Responsibilities**
 - **Development Team Member**: Story implementation and collaboration
 - **Scrum Master**: Servant leadership and process facilitation
 - **Product Owner**: Backlog management and stakeholder communication
 
 ---
 
-### **Data Structures and Algorithms using Java**
+#### **Data Structures and Algorithms using Java**
 *Computational Problem Solving and Optimization*
 
 **Focus**: Core computer science concepts implemented in Java
 
-#### **Data Structure Implementation**
+##### **Data Structure Implementation**
 - **Linear Data Structures**
   - Array operations and multi-dimensional arrays
   - Linked List implementation (Singly, Doubly, Circular)
   - Stack and Queue operations with real-world applications
 
-#### **Java Collections Framework**
+##### **Java Collections Framework**
 - **List Implementations**: ArrayList vs LinkedList performance analysis
 - **Set Interface**: HashSet, TreeSet, LinkedHashSet comparisons
 - **Map Interface**: HashMap implementation and collision handling
 - **Queue Interface**: PriorityQueue and Deque implementations
 - **Generics**: Type safety and code reusability
 
-#### **Algorithm Design and Analysis**
+##### **Algorithm Design and Analysis**
 - **Algorithm Complexity**: Big O notation and performance analysis
 - **Searching Algorithms**: Linear search, Binary search implementations
 - **Sorting Algorithms**: Bubble, Selection, Insertion, Merge, Quick sort
@@ -189,26 +189,26 @@
 
 ---
 
-### **Professional Communication Skills**
+#### **Professional Communication Skills**
 
-#### **Email Writing Skills**
+##### **Email Writing Skills**
 - **Professional Email Structure**: Subject lines, greetings, body, closings
 - **Email Etiquette**: Professional tone, timing, and response protocols
 - **Business Communication**: Clear, concise, and effective messaging
 
-#### **High Impact Presentations**
+##### **High Impact Presentations**
 - **Presentation Design**: Structure, flow, and audience engagement
 - **Assertiveness Skills**: Confident communication and leadership presence
 - **Business Presentation**: Professional delivery and stakeholder management
 
-#### **Time Management**
+##### **Time Management**
 - **Productivity Optimization**: Stephen Covey's Time Quadrants
 - **Habit Formation**: Identifying and eliminating productivity barriers
 - **Effective Planning**: Priority management and goal setting
 
 ---
 
-## 🏆 **Certification Achievements Summary**
+### 🏆 **Certification Achievements Summary**
 
 | Certification | Hours | Key Competencies | Assessment |
 |---------------|-------|------------------|------------|
@@ -224,7 +224,7 @@
 
 ---
 
-## 🎯 **Professional Impact**
+### 🎯 **Professional Impact**
 
 These certifications demonstrate comprehensive expertise in:
 - **Full-stack Java Development**: From fundamentals to enterprise applications
