@@ -1,6 +1,6 @@
-# 🌐 Web Design for Everybody: Professional Web Development Certification
+## 🌐 Web Design for Everybody: Professional Web Development Certification
 
-## 📚 Specialization Overview
+### 📚 Specialization Overview
 
 **Institution**: University of Michigan  
 **Platform**: Coursera  
@@ -8,23 +8,23 @@
 **Total Duration**: 21 weeks (75+ hours of structured learning)  
 **Credential**: Professional Certificate with University of Michigan verification
 
-### **Program Description**
+#### **Program Description**
 This comprehensive specialization covers the complete journey from basic web page creation to developing professional-quality, responsive websites. The program emphasizes modern web development practices, accessibility standards, and mobile-first design principles, culminating in a capstone project that demonstrates real-world web development skills.
 
 ---
 
-## 🎯 **Course Progression & Learning Path**
+### 🎯 **Course Progression & Learning Path**
 
-### **Course 1: Introduction to HTML5** *(3 weeks, 11 hours)*
+#### **Course 1: Introduction to HTML5** *(3 weeks, 11 hours)*
 **Instructor**: Charles Russell Severance
 
-#### **Core Learning Objectives**
+##### **Core Learning Objectives**
 - Master HTML5 semantic markup and document structure
 - Implement proper use of HTML5 tags for content organization
 - Create accessible web content using appropriate markup
 - Understand the separation of content and presentation
 
-#### **Key Skills Developed**
+##### **Key Skills Developed**
 - **HTML5 Fundamentals**: Document structure, DOCTYPE, meta tags
 - **Semantic Elements**: header, nav, main, section, article, aside, footer
 - **Content Elements**: headings, paragraphs, lists, tables
@@ -32,7 +32,7 @@ This comprehensive specialization covers the complete journey from basic web pag
 - **Form Creation**: input types, validation, accessibility features
 - **Link Management**: internal, external, anchor links
 
-#### **Practical Applications**
+##### **Practical Applications**
 - Built responsive image galleries with proper alt text
 - Created accessible navigation menus
 - Implemented HTML5 form validation
@@ -40,10 +40,10 @@ This comprehensive specialization covers the complete journey from basic web pag
 
 ---
 
-### **Course 2: Introduction to CSS3** *(4 weeks, 17 hours)*
+#### **Course 2: Introduction to CSS3** *(4 weeks, 17 hours)*
 **Instructor**: Charles Russell Severance
 
-#### **Advanced Styling Mastery**
+##### **Advanced Styling Mastery**
 - **CSS3 Fundamentals**: Selectors, properties, values, inheritance
 - **Box Model**: Margin, border, padding, content areas
 - **Typography**: Font families, weights, sizes, line-height, text effects
@@ -51,38 +51,38 @@ This comprehensive specialization covers the complete journey from basic web pag
 - **Layout Techniques**: Float, positioning, display properties
 - **Responsive Units**: em, rem, percentages, viewport units
 
-#### **Professional Styling Techniques**
+##### **Professional Styling Techniques**
 - **Advanced Selectors**: Pseudo-classes, pseudo-elements, attribute selectors
 - **CSS3 Effects**: Transitions, transforms, shadows, border-radius
 - **Background Styling**: Multiple backgrounds, background-size, positioning
 - **Flexbox Fundamentals**: Container and item properties
 - **CSS Grid Basics**: Grid template areas and responsive layouts
 
-#### **Browser Compatibility & Standards**
+##### **Browser Compatibility & Standards**
 - Cross-browser testing and vendor prefixes
 - CSS validation and debugging techniques
 - Performance optimization for CSS delivery
 
 ---
 
-### **Course 3: Interactivity with JavaScript** *(4 weeks, 9 hours)*
+#### **Course 3: Interactivity with JavaScript** *(4 weeks, 9 hours)*
 **Instructor**: Charles Russell Severance
 
-#### **JavaScript Programming Fundamentals**
+##### **JavaScript Programming Fundamentals**
 - **Core Syntax**: Variables, data types, operators, control structures
 - **Functions**: Declaration, expressions, arrow functions, scope
 - **DOM Manipulation**: Element selection, modification, event handling
 - **Event-Driven Programming**: User interactions, form validation
 - **Debugging**: Browser developer tools, console methods
 
-#### **Interactive Web Development**
+##### **Interactive Web Development**
 - **DOM Events**: Click, hover, form submission, keyboard events
 - **Dynamic Content**: Creating, modifying, removing elements
 - **Form Validation**: Client-side validation, error messaging
 - **User Experience**: Progressive enhancement, graceful degradation
 - **Accessibility**: Screen reader compatibility, keyboard navigation
 
-#### **Practical Projects**
+##### **Practical Projects**
 - Interactive image galleries with modal displays
 - Dynamic form validation with real-time feedback
 - Responsive navigation menus with JavaScript enhancement
@@ -90,22 +90,22 @@ This comprehensive specialization covers the complete journey from basic web pag
 
 ---
 
-### **Course 4: Advanced Styling with Responsive Design** *(4 weeks, 11 hours)*
+#### **Course 4: Advanced Styling with Responsive Design** *(4 weeks, 11 hours)*
 **Instructor**: Charles Russell Severance
 
-#### **Mobile-First Design Philosophy**
+##### **Mobile-First Design Philosophy**
 - **Responsive Design Principles**: Fluid grids, flexible images, media queries
 - **Breakpoint Strategy**: Mobile, tablet, desktop optimization
 - **Viewport Configuration**: Meta viewport, device adaptation
 - **Performance Optimization**: Image optimization, CSS minification
 
-#### **Advanced CSS Frameworks**
+##### **Advanced CSS Frameworks**
 - **Bootstrap Integration**: Grid system, components, utilities
 - **Framework Customization**: Overriding defaults, custom themes
 - **Component Libraries**: Navigation, forms, modals, carousels
 - **Responsive Typography**: Scalable fonts, readable hierarchies
 
-#### **Professional Development Workflow**
+##### **Professional Development Workflow**
 - **Wireframing**: Low-fidelity to high-fidelity design process
 - **Design Systems**: Consistent spacing, colors, typography
 - **Browser Testing**: Cross-device compatibility testing
@@ -113,22 +113,22 @@ This comprehensive specialization covers the complete journey from basic web pag
 
 ---
 
-### **Course 5: Web Design for Everybody Capstone** *(6 weeks, 27 hours)*
+#### **Course 5: Web Design for Everybody Capstone** *(6 weeks, 27 hours)*
 **Instructor**: Colleen van Lent, Ph.D.
 
-#### **Professional Portfolio Development**
+##### **Professional Portfolio Development**
 The capstone project synthesizes all previous learning into a comprehensive, professional-quality web portfolio demonstrating mastery of modern web development practices.
 
-#### **Project Requirements & Standards**
+##### **Project Requirements & Standards**
 - **Responsive Design**: Minimum three platform compatibility (mobile, tablet, desktop)
 - **Accessibility Compliance**: WCAG 2.1 AA standards adherence
 - **Validation Standards**: HTML5 and CSS3 validation requirements
 - **Performance Optimization**: Fast loading, optimized assets
 
 
-## 🏆 **Professional Skills Acquired**
+### 🏆 **Professional Skills Acquired**
 
-### **Technical Competencies**
+#### **Technical Competencies**
 - **Frontend Technologies**: HTML5, CSS3, JavaScript ES6+
 - **Responsive Design**: Mobile-first development, media queries, flexible layouts
 - **Accessibility**: WCAG compliance, screen reader optimization, keyboard navigation
@@ -136,14 +136,14 @@ The capstone project synthesizes all previous learning into a comprehensive, pro
 - **Version Control**: Git workflow for web development projects
 - **Testing**: Cross-browser compatibility, device testing, validation
 
-### **Design & UX Skills**
+#### **Design & UX Skills**
 - **Wireframing**: Low to high-fidelity design process
 - **Visual Design**: Typography, color theory, layout principles
 - **User Experience**: Usability testing, accessibility considerations
 - **Information Architecture**: Content organization, navigation design
 - **Responsive Strategy**: Breakpoint planning, content prioritization
 
-### **Professional Development**
+#### **Professional Development**
 - **Code Review**: Peer evaluation and collaborative improvement
 - **Project Management**: Agile development, milestone tracking
 - **Client Communication**: Requirements gathering, progress reporting
@@ -151,7 +151,7 @@ The capstone project synthesizes all previous learning into a comprehensive, pro
 
 ---
 
-## 📊 **Certification Metrics & Achievements**
+### 📊 **Certification Metrics & Achievements**
 
 | Metric | Achievement |
 |--------|-------------|
@@ -163,7 +163,7 @@ The capstone project synthesizes all previous learning into a comprehensive, pro
 | **Code Validation** | 100% HTML5/CSS3 validation passed |
 | **Performance Score** | 90+ PageSpeed Insights rating |
 
-### **Industry Recognition**
+#### **Industry Recognition**
 - **47% of graduates** reported tangible career benefits
 - **17% received** pay increases or promotions post-completion
 - **University of Michigan** accredited certification
@@ -172,18 +172,18 @@ The capstone project synthesizes all previous learning into a comprehensive, pro
 ---
 
 
-## 🎓 **Learning Outcomes & Professional Impact**
+### 🎓 **Learning Outcomes & Professional Impact**
 
 Upon completion of this specialization, demonstrated ability to:
 
-### **Technical Proficiency**
+#### **Technical Proficiency**
 - ✅ **Build responsive websites** from concept to deployment
 - ✅ **Implement accessibility standards** for inclusive web design
 - ✅ **Optimize performance** for fast, efficient user experiences
 - ✅ **Validate code quality** using industry-standard tools
 - ✅ **Debug and troubleshoot** across multiple browsers and devices
 
-### **Professional Readiness**
+#### **Professional Readiness**
 - ✅ **Create professional portfolios** showcasing technical skills
 - ✅ **Collaborate effectively** through peer review processes
 - ✅ **Meet project deadlines** with structured development workflows
@@ -192,7 +192,7 @@ Upon completion of this specialization, demonstrated ability to:
 
 ---
 
-## 🔗 **Quick Access - Course Certificates**
+### 🔗 **Quick Access - Course Certificates**
 
 | Course | Verification Link | Skills Demonstrated |
 |--------|------------------|-------------------|
